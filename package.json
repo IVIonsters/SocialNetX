@@ -1,0 +1,12 @@
+{
+  "name": "socialnetx",
+  "version": "1.0.0",
+  "description": "* [Description](#description)\r * [Languages](#languages)\r * [Features](#features)\r * [Usage](#usage)\r * [Credits](#credits)\r * [License](#license)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "IVIonsters Designs",
+  "license": "MIT"
+}
