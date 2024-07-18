@@ -32,9 +32,6 @@
 
 * Install all necessary packages: npm install, npm start, then postman for route testing
 
-
-* [SocialNetX <------Demo Video](./assets/Demo.mp4)
-
 * [SocialNetX <------Demo Video](https://drive.google.com/file/d/1sFyP9eOFQw27CWmZl5th3KPH5j-msBzI/view?usp=sharing)
 
 * [SocialNetX Repository](https://github.com/IVIonsters/CodeChronicles)
