@@ -1,4 +1,4 @@
-# Note-Taker
+# SocialNetX
 
 ## Table of Contents
 
@@ -7,41 +7,39 @@
 * [Features](#features)
 * [Usage](#usage)
 * [Credits](#credits)
-* [License](#license)  
-
+* [License](#license)
 
 ## Description
 
-<p> CodeChronicles is a tech blog application built with Express, Sequelize, and PostgreSQL. It allows users to create, edit, and delete posts, as well as comment on posts created by others.</P>
+<p> SocialNetX is a social network API built with Express, MongoDB, and Mongoose. It allows users to create accounts, manage their friends, post thoughts, and react to posts. Users can also manage reactions to their thoughts.</p>
 
 ## Languages
 
-* ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-
-
-
 ## Features
 
-* **User Authentication:** Secure login and signup using bcrypt and express-session.
-* **Post Management:** Users can create, edit, and delete their posts.
-* **Database Integration:** Uses sequelize with PostgreSQL for data management.
-* **Responsive Design:** Mobile friendly interface.
+* **User Management:** Create, update, and delete user accounts. Manage friends with add and remove functionalities.
+* **Thought Management:** Create, update, and delete thoughts. 
+* **Reaction Management:** Add and delete reactions to thoughts.
+* **Database Integration:** Uses Mongoose with MongoDB for data management.
+* **API Endpoints:** Comprehensive API routes for all user and thought-related operations.
 
 ## Usage
 
-* npm install to load all necessary packages if running locally
-* Node server.js to start if running local.
-* Application is setup using docker, can setup from docker image as well.
+* Install all necessary packages: npm install, npm start, then postman for route testing
 
-* [CodeChronicles](https://codechronicles-j469.onrender.com/)
 
-* [CodeChronicles Repository](https://github.com/IVIonsters/CodeChronicles)
+* [SocialNetX <------Demo Video](./assets/Demo.mp4)
 
-* ![SCREENSHOTS GO HERE](./public/assets/screencapture-codechronicles-j469-onrender-2024-07-14-22_31_22.png)
+* [SocialNetX <------Demo Video](https://drive.google.com/file/d/1sFyP9eOFQw27CWmZl5th3KPH5j-msBzI/view?usp=sharing)
+
+* [SocialNetX Repository](https://github.com/IVIonsters/CodeChronicles)
+
+* ![SocialNetX Screenshot](./assets/images/Screenshot%202024-07-18%20184550.png)
 
 
 ## Credits
